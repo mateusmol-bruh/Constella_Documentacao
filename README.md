@@ -12,6 +12,7 @@ Uma plataforma digital voltada para mulheres, utilizando um algoritmo de compati
 | Enzo Oliveira Martins  |         |
 | Lucca Oliveira Santana |         |
 | Mateus Della Lastra Mol | - Product Owner |
+| Nathália Queiroga de Souza |         |
 | Rafael Begali de Sá | - Scrum Master |
 
 ## 📝 Licença
