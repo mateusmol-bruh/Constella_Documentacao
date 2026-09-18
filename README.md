@@ -4,6 +4,8 @@
 
 Uma plataforma digital voltada para mulheres, utilizando um algoritmo de compatibilidade para recomendar conexões entre usuárias com interesses e objetivos semelhantes, além de disponibilizar recursos relacionados a apoio, segurança e desenvolvimento pessoal e profissional.
 
+## 🤝 Colaboradores
+
 |   Nome do Colaborador  | Funções |
 |:----------------------:|---------|
 | Beatris Custódio       | - Analista de Requisitos |
